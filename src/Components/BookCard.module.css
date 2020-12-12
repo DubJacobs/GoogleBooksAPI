@@ -1,0 +1,9 @@
+.bookcard {
+    margin: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: tomato;
+    padding: 10px;
+    width: 200px;
+}
